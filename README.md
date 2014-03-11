@@ -1,4 +1,4 @@
-simple-windows-phone-storage
+Simple Windows Phone Storage
 ============================
 
 Simplified Windows Phone Storage Library
